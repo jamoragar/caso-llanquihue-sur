@@ -21,8 +21,7 @@ public class Main {
         // Configuración para soportar tildes y caracteres especiales en los System.out.println().
         System.setOut(new java.io.PrintStream(System.out, true, "UTF-8"));
 
-        System.out.println("===== SISTEMA LLANQUIHUE TOUR =====");
-        System.out.println();
+        System.out.println("===== SISTEMA LLANQUIHUE TOUR =====\n");
 
         Direccion direccionCliente = new Direccion(
                 "Avenida Costanera",
@@ -74,14 +73,10 @@ public class Main {
         );
 
         System.out.println("===== CLIENTE =====");
-        System.out.println(cliente);
-
-        System.out.println();
+        System.out.println(cliente + "\n");
 
         System.out.println("===== GUÍA TURÍSTICO =====");
-        System.out.println(guia);
-
-        System.out.println();
+        System.out.println(guia + "\n");
 
         System.out.println("===== OPERADOR =====");
         System.out.println(operador);

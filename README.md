@@ -1,6 +1,14 @@
-# Llanquihue Tour
+# 🧠 Llanquihue Tour – Desarrollo Orientado a Objetos I
 
 Sistema Java orientado a objetos para representar personas vinculadas a la agencia de turismo Llanquihue Tour.
+
+## 👤 Autor del proyecto
+
+- **Nombre completo:** Javier A. Moraga Rojas
+- **Carrera:** Analista Programador Computacional
+- **Sede:** Online
+
+---
 
 ## Propósito
 
